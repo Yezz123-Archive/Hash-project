@@ -1,5 +1,3 @@
-![Untitled-2](https://user-images.githubusercontent.com/52716203/83064761-3b437980-a05a-11ea-96f6-49ad539c5cf3.png)
-
 # Hash-project
 A hash function is any function that can be used to map data of arbitrary size to fixed-size values. The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. The values are used to index a fixed-size table called a hash table. Use of a hash function to index a hash table is called hashing or scatter storage addressing.
 
